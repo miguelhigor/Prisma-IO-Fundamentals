@@ -1,0 +1,18 @@
+{
+  "name": "prisma-io-fundamentals",
+  "version": "1.0.0",
+  "description": "Fundamentals of Prisma IO ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "yarn": "^1.22.18"
+  },
+  "dependencies": {
+    "prisma": "^3.12.0"
+  }
+}
