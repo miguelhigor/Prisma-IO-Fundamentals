@@ -6,7 +6,7 @@ async function main() {
     const dataToCreate = {
         name: "Node",
         duration: 333,
-        description: "Curso de NodeJS",
+        description: "NodeJS course",
         teacher: {
             connectOrCreate: {
                 where: {
